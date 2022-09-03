@@ -1,7 +1,13 @@
+/* 	Author  	:Bojorquez Espinzoa Jesus Antonio 
+ *  	Gupo 		:302 
+ *  	Nombre 		:Abrir un programa
+ * 	Descripcion 	:Abre un archio y lee el contenido letra por letra 
+ *
+ * */
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-/*Programa que lee caracteres de un archivo */
 int main()
 {
     char caracter; // caracter de la cadena leido
